@@ -4,7 +4,7 @@ This is the code repository for the master's thesis
 **"Phylogeographic Analysis of Influenza D Virus Evolution"**
 
 ---
-## Alignement to methodology sections
+## Alignment to methodology sections
 
 The following code aligns with these methodology sections in the thesis:
 
