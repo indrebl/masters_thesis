@@ -1,7 +1,3 @@
-This is the code repository for the master's thesis "Phylogeographic Analysis of Influenza D Virus Evolution"
-
-
-
 # Phylogeographic Analysis of Influenza D Virus Evolution
 
 This is the code repository for the master's thesis  
